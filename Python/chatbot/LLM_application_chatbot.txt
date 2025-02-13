@@ -1,0 +1,4 @@
+https://github.com/ibm-developer-skills-network/LLM_application_chatbot
+
+1. Move app.py to the LLM_application_chatbot directory
+2. Change the endpoint at /static/script.js to your created route
